@@ -41,5 +41,24 @@ Enfin, il est nécessaire d'ajouter la dépendance MySQL dans le fichier pom.xml
 ![maeven](https://github.com/osmel1/tpSpring1/assets/110778429/1aa15007-a0d9-4920-9962-85fa8caa0d09)
 ![migrateMysql](https://github.com/osmel1/tpSpring1/assets/110778429/355105a6-ec8f-4874-8343-15324ae4fd99)
 
+##  Patient, Médecin, rendez-vous, consultation : 
+# les entities : 
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/37258a40-ddee-4ed8-a16f-2ac0c70277d9)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/c451e0f6-dd10-4959-afe5-9de602ecb957)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/110e41d9-ab93-4f8b-9c4a-98111ec87701)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/b4bfa123-1d5d-46ec-98a0-d0bbbd2a2216)
+# les interfaces repository pour chaque entity  : 
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/194f8a0d-e42e-4da9-bc71-2426b04e3c63)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/2e89a858-141f-4f71-8ac3-2a668f4d6487)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/9e2cebf0-4e89-486e-90e8-7a72517cd9d0)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/1c979905-7d7b-4b33-a89a-37a8760635f7)
+
+# la couche metier : 
+l'interface métier 
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/52b24906-cfbc-4974-9d5c-b6979f2c5063)
+
+une implementation de l'interface :  
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/446e249c-f01a-4cd5-beb8-3783600f74f9)
+![image](https://github.com/osmel1/tpSpring1/assets/110778429/7de834f4-bad8-44cd-9592-039d19d1c8c3)
 
 
